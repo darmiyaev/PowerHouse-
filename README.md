@@ -3,8 +3,26 @@
 The PowerHouse programming is good with handling big things.
 It handles data well.
 It can make big applications.
-# Why?
+# Why was this made?
+As an alternative to C++
+Also a mix of C++, Rust, C and Python because those 4 programming languages are good at making many programs and have weaknesses and advantages, mixing them together would make a programming language that is very nice.
+PowerHouse aims to be fast like c++.
+PowerHouse also aims to be memory safe like Rust.
+I admire rust honestly.
+PowerHouse aims to be productive like Rust.
+PowerHouse aims to be easy like Python.
+PowerHouse aims to have a scrict compiler like Rust.
+PowerHouse aims to have a IDE for itself like Python.
 # What it should be used in
+Desktop Applications
+Operating Systems
+Back end
+Embedded
+Hacking
+Game Development
+Data Science
+Machine Learning
+Hardware
 # What it aims to do
 # Be safe (memory safe, etc):
 INSPIRED BY: Rust
