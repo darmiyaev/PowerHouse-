@@ -36,7 +36,7 @@ It can make big applications.
 # Why was this made?
 As an alternative to C++
 
-Also a mix of C++, Rust, C and Python because those 4 programming languages are good at making many programs and have weaknesses and advantages, mixing them together
+Also a mix of C++, Rust and Python because those 3 programming languages are good at making many programs and have weaknesses and advantages, mixing them together
 
 would make a programming language that is very nice.
 
@@ -54,6 +54,7 @@ PowerHouse aims to have a scrict compiler like Rust.
 
 PowerHouse aims to have a IDE for itself like Python.
 
+PowerHouse aims to be cross-platformer like Java.
 # What it should be used in
 Desktop Applications
 
@@ -95,6 +96,10 @@ INSPIRED BY: Python
 It most likely won't be easy, but it aims to be easier than languages like c++
 
 PowerHouse want's to make it easy for people to learn and use it.
+# Be cross-platform
+INSPIRED BY: Java
+
+Cross-platform means it can be run anywhere (mostly)
 # Have a good compiler
 INSPIRED BY: Rust
 
