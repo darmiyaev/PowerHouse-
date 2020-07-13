@@ -7,6 +7,16 @@ Thats why I added a - they are technically different so I guess that's all.
 
 or ability a powerhouse rock band b : an athletic team characterized by strong aggressive play"
 
+PowerHouse aims to influence and/or inspire people, etc.
+
+PowerHouse aims to be a powerful programming language.
+
+PowerHouse aims to have good abilitys (advantages)
+
+PowerHouse is strongly-typed. (https://stackoverflow.com/questions/430182/is-c-strongly-typed)
+
+It's suprising the defintion fits with the programming language :)
+
 The PowerHouse programming is good with handling big things.
 
 It handles data well.
