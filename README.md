@@ -54,7 +54,7 @@ PowerHouse aims to have a scrict compiler like Rust.
 
 PowerHouse aims to have a IDE for itself like Python.
 
-PowerHouse aims to be cross-platformer like Java.
+PowerHouse aims to be cross-platform like Java.
 # What it should be used in
 Desktop Applications
 
