@@ -22,7 +22,7 @@ PowerHouse aims to influence and/or inspire people, etc.
 
 PowerHouse aims to be a powerful programming language.
 
-PowerHouse aims to have good abilitys (advantages)
+PowerHouse aims to have many abilitys (advantages)
 
 PowerHouse is strongly-typed. (https://stackoverflow.com/questions/430182/is-c-strongly-typed)
 
