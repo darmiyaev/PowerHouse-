@@ -2,13 +2,13 @@
 # Links
 This page-The compiler
 
-https://github.com/darmiyaev/PowerHouse-IDE-The IDE
+https://github.com/darmiyaev/PowerHouse-IDE The IDE
 
-https://github.com/darmiyaev/PowerHouse-Book-The Book
+https://github.com/darmiyaev/PowerHouse-Book The Book
 
-https://github.com/darmiyaev/PowerHouse-Course-The Online Course
+https://github.com/darmiyaev/PowerHouse-Course The Online Course
 
-https://github.com/darmiyaev/PowerHouse-Documentation-The Documentation
+https://github.com/darmiyaev/PowerHouse-Documentation The Documentation
 
 When writing this, I was not aware that there was already a programming language called "PowerHouse" exactly written the same...
 
