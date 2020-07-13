@@ -1,4 +1,15 @@
 # PowerHouse-
+# Links
+This page-The compiler
+
+-The IDE
+
+-The Book
+
+-The Online Course
+
+-The Documentation
+
 When writing this, I was not aware that there was already a programming language called "PowerHouse" exactly written the same...
 
 Thats why I added a - they are technically different so I guess that's all.
