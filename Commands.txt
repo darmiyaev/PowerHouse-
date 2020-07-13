@@ -1,1 +1,6 @@
 This is to brainstorm commands for PowerHouse-
+Hello world:
+fn main() {
+  print('Hello World!')
+}
+// Output (this is a comment)
