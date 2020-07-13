@@ -137,5 +137,7 @@ PowerHouse will have a book, an online course and a documentation.
 You can help the PowerHouse project, you just add on to the code and I can merge it (if it should be)
 # Programming langauges used
 The compiler will be writtten in C++ and maybe changed to PowerHouse later on.
+
 The IDE will be written in C++ and maybe changed to PowerHouse later on.
+
 The course, book and documentation will be written in HTML, CSS and Javascript.
