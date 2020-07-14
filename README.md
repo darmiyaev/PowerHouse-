@@ -44,8 +44,6 @@ PowerHouse aims to be fast like c++.
 
 PowerHouse also aims to be memory safe like Rust.
 
-I admire rust honestly.
-
 PowerHouse aims to be productive like Rust.
 
 PowerHouse aims to be easy like Python.
